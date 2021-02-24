@@ -1,5 +1,5 @@
 ## Hi 👋
-Me chado Wederson, tenho 25 anos, atualmente sou estudante de Sistemas de Informção na Universidade Federal de Santa Maria - UFSM (Santa Maria - RS).
+Me chamo Wederson, tenho 25 anos, atualmente sou estudante de Sistemas de Informção na Universidade Federal de Santa Maria - UFSM (Santa Maria - RS).
 Sou desenvolvedor web e mobile, em constante evolução :rocket:
 
 ### Tecnologias
