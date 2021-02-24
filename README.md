@@ -1,16 +1,27 @@
-### Hi there 👋
+## Hi 👋
+Me chado Wederson, tenho 25 anos, atualmente sou estudante de Sistemas de Informção na Universidade Federal de Santa Maria - UFSM (Santa Maria - RS).
+Sou desenvolvedor web e mobile, em constante evolução :rocket:
 
-<!--
-**wedersonf/wedersonf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Tecnologias
+- HTML, CSS, JavaScript, TypeScript, ReactJS e React Native.
+- Aprendendo mais sobre NextJS
+- NodeJS, MongoDB, PostgreSQL
+- Docker, Git
+- Wordpress
 
-Here are some ideas to get you started:
+<details>
+  <summary>:zap: Github stats</summary>
+  <img src="https://github-readme-stats.vercel.app/api?username=wedersonf&&show_icons=true&title_color=fff&icon_color=03A87C&text_color=ededed&bg_color=333333" />
+</details>
+<details>
+  <summary>:zap: Languages Used</summary>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wedersonf&layout=compact&title_color=fff&bg_color=333333&text_color=ededed" />
+</details>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contato
+- <a href="https://www.linkedin.com/in/wedersonf">Linkedin</a>
+- <a href="https://www.instagram.com/weederson">Instagram</a>
+- <a href="https://app.rocketseat.com.br/me/weederson">Rocketseat</a>
+- <a href="mailto:wedymf@gmail.com">E-mail</a>
+---
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=github/wedersonf)](https://github.com/wedersonf)
